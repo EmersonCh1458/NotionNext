@@ -46,7 +46,7 @@ const BLOG = {
   CONTACT_WEIBO: '',
   CONTACT_TWITTER: '',
   CONTACT_GITHUB: '',
-  CONTACT_TELEGRAM: '',
+  CONTACT_TELEGRAM: 'http://t.me/EiChens_Bot',
 
   // 鼠标点击烟花特效
   FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || true, // 鼠标点击烟花特效
