@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'EmersonChan', // 作者
   BIO: '一个只是冲浪的学生', // 作者简介
-  LINK: 'https://emechan.xyz', // 网站地址
+  LINK: 'https://blog.emechan.asia', // 网站地址
   KEYWORDS: 'Notion, 博客, 艾默生', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
@@ -42,7 +42,7 @@ const BLOG = {
   PREVIEW_TAG_COUNT: 16, // 首页最多展示的标签数量，0为不限制
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
-  CONTACT_EMAIL: 'ctme@emechan.xyz',
+  CONTACT_EMAIL: 'emechan.ocm@proton.me',
   CONTACT_WEIBO: '',
   CONTACT_TWITTER: '',
   CONTACT_GITHUB: '',
